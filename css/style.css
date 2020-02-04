@@ -22,6 +22,16 @@ a {
   transition: all 400ms ease-in-out;
 }
 
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
 /* botões */
 
 .btn {
@@ -253,7 +263,7 @@ h6 {
 }
 
 .bg-img-1 {
-  background: url("../images/custom\ –\ 1.png") center;
+  background: url("../images/custom\ –\ 1\ header.png") center;
   position: relative;
   background-size: cover;
   box-shadow: 1px 1px 5px grey;
@@ -272,13 +282,13 @@ h6 {
 }
 
 .bg-img-1c {
-  background: url("../images/custom\ –\ 1.png") center;
+  background: url("../images/custom\ –\ 2\ header.png") center;
   position: relative;
   background-size: cover;
 }
 
 .bg-img-1d {
-  background: url("../images/DBS_MicroSite_Home_Solutionb.jpg") center;
+  background: url("../images/workplace_header.png") center;
   position: relative;
   background-size: cover;
 }
