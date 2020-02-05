@@ -266,11 +266,10 @@ h6 {
   background: url("../images/custom\ –\ 1\ header.png") center;
   position: relative;
   background-size: cover;
-  box-shadow: 1px 1px 5px grey;
 }
 
 .bg-img-1a {
-  background: url("../images/sphere_bg_A.png") center;
+  background: url("../images/utils_header.png") center;
   position: relative;
   background-size: cover;
 }
