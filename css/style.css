@@ -167,7 +167,7 @@ h6 {
 
 .section {
   padding-top: 60px;
-  padding-bottom: 100px;
+  padding-bottom: 60px;
 }
 
 .section_zigzag {
@@ -276,9 +276,9 @@ h6 {
 }
 
 .bg-img-1b {
-  background: url("http://field.ts.fujitsu.com/images/DBS/BG/BG_Red_250px.png") center;
+  background: url("../images/Contact_header.png") center;
   position: relative;
-  padding: 45px;
+  padding: cover;
 }
 
 .bg-img-1c {
@@ -294,7 +294,7 @@ h6 {
 }
 
 .bg-img-1e {
-  background: url("../images/DBS_MicroSite_Home_Consolidation.jpg") center;
+  background: url("../images/guidance_header.png") center;
   position: relative;
   background-size: cover;
 }

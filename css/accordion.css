@@ -11,7 +11,7 @@
     transition: 0.4s;
 }
 
-.active,
+.active_,
 .accordion:hover {
     background-color: #ccc;
 }
@@ -24,7 +24,7 @@
     margin-left: 5px;
 }
 
-.active:after {
+.active_:after {
     content: "\2212";
 }
 
